@@ -1,0 +1,13 @@
+D:\AutomatedTestingFoundationsWith.NET\Object Oriented Design Principles\Patterns\bin\Debug\netcoreapp3.1\Object Oriented Design Principles.exe
+D:\AutomatedTestingFoundationsWith.NET\Object Oriented Design Principles\Patterns\bin\Debug\netcoreapp3.1\Object Oriented Design Principles.deps.json
+D:\AutomatedTestingFoundationsWith.NET\Object Oriented Design Principles\Patterns\bin\Debug\netcoreapp3.1\Object Oriented Design Principles.runtimeconfig.json
+D:\AutomatedTestingFoundationsWith.NET\Object Oriented Design Principles\Patterns\bin\Debug\netcoreapp3.1\Object Oriented Design Principles.runtimeconfig.dev.json
+D:\AutomatedTestingFoundationsWith.NET\Object Oriented Design Principles\Patterns\bin\Debug\netcoreapp3.1\Object Oriented Design Principles.dll
+D:\AutomatedTestingFoundationsWith.NET\Object Oriented Design Principles\Patterns\bin\Debug\netcoreapp3.1\Object Oriented Design Principles.pdb
+D:\AutomatedTestingFoundationsWith.NET\Object Oriented Design Principles\Patterns\obj\Debug\netcoreapp3.1\Object Oriented Design Principles.csprojAssemblyReference.cache
+D:\AutomatedTestingFoundationsWith.NET\Object Oriented Design Principles\Patterns\obj\Debug\netcoreapp3.1\Object Oriented Design Principles.AssemblyInfoInputs.cache
+D:\AutomatedTestingFoundationsWith.NET\Object Oriented Design Principles\Patterns\obj\Debug\netcoreapp3.1\Object Oriented Design Principles.AssemblyInfo.cs
+D:\AutomatedTestingFoundationsWith.NET\Object Oriented Design Principles\Patterns\obj\Debug\netcoreapp3.1\Object Oriented Design Principles.csproj.CoreCompileInputs.cache
+D:\AutomatedTestingFoundationsWith.NET\Object Oriented Design Principles\Patterns\obj\Debug\netcoreapp3.1\Object Oriented Design Principles.dll
+D:\AutomatedTestingFoundationsWith.NET\Object Oriented Design Principles\Patterns\obj\Debug\netcoreapp3.1\Object Oriented Design Principles.pdb
+D:\AutomatedTestingFoundationsWith.NET\Object Oriented Design Principles\Patterns\obj\Debug\netcoreapp3.1\Object Oriented Design Principles.genruntimeconfig.cache
